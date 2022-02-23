@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments answer to the two petitions of the countie of Buckingham as they were presented to both Houses by Knights, esquires, captaines, and gentlemen, with a number of free-holders ... in behalfe of Mr. Iohn Hambden, The Lord Mandevile, Mr. Pym, Mr.Densill Hollis, Sir Arthur Hasilridge, and Mr. Stroud : with the manner of their coming thorow the city of London to the Parliament House, with papers in their hands : and of the manner of their presenting the said petition to the House.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38036</idno>
+            <idno type="STC">Wing E2129</idno>
+            <idno type="STC">ESTC R32856</idno>
+            <idno type="EEBO-CITATION">12774702</idno>
+            <idno type="OCLC">ocm 12774702</idno>
+            <idno type="VID">93739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments answer to the two petitions of the countie of Buckingham as they were presented to both Houses by Knights, esquires, captaines, and gentlemen, with a number of free-holders ... in behalfe of Mr. Iohn Hambden, The Lord Mandevile, Mr. Pym, Mr.Densill Hollis, Sir Arthur Hasilridge, and Mr. Stroud : with the manner of their coming thorow the city of London to the Parliament House, with papers in their hands : and of the manner of their presenting the said petition to the House.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.F.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93739:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:93739:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>The Parliaments ANSWER TO The two petitions of the Countie of <hi>Buckingham,</hi> as they were preſented to both Houſes by Knights, Eſquires, Captaines, and Gentlemen, with a number of Free-holders:</p>
+            <p>Preſented with a number of the ſame Shire in be<g ref="char:EOLhyphen"/>halfe of Mr. <hi>Iohn Hambden,</hi> the Lord <hi>Mandevile,</hi> Mr. <hi>Pym,</hi> Mr. <hi>Denſill Hollis,</hi> Sir <hi>Arthur Haſil<g ref="char:EOLhyphen"/>ridge,</hi> and Mr. <hi>Stroud.</hi>
+            </p>
+            <p>With the manner of their comming thorow the City of <hi>London</hi> to the Parliament Houſe, with Papers in their hands: and of the manner of their preſenting the ſaid Petition to the Houſe.</p>
+            <p>Printed for <hi>H. F.</hi> 1641.</p>
+            <pb facs="tcp:93739:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:93739:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:93739:3"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:93739:3"/>
+            <!-- PDF PAGE 87 -->
+            <head>TO THE RIGHT HONOVRABLE, The houſe of Peeres now aſſembled in PARLIAMENT: <hi>The humble Petition of the Inhabitants of the Countie of</hi> Buckingham.</head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas we hoped upon the happy Aſ<g ref="char:EOLhyphen"/>ſembling of this preſent Parliament, wee ſhould have had a ſpeedy redreſſe of thoſe great preſſures we had for many yeares beene under; but have hitherto beene in great meaſure fruſtrate of our hopes, by the ſtrong counter-working of a ma<g ref="char:EOLhyphen"/>lignant faction, whereby the perfecting of Reforma<g ref="char:EOLhyphen"/>tion is hindered, the endevours of the Houſe of Com<g ref="char:EOLhyphen"/>mons in great part ſucceſſeleſſe, our dangers growne upon us, by iterated plots, Prieſts and other delin<g ref="char:EOLhyphen"/>quents unpuniſhed, to the incouragement of others: Ireland neere loſt by practiſed counſels, whiles thou<g ref="char:EOLhyphen"/>ſands are butchered by many cruelties, and to cut off all hopes of future Reformation, the very being of Parliament endangered, by high and unexampled breach of Priviledges, which by our Proteſtation lately taken, we are bound by our lives and eſtates to maintaine, and in reſpect of that late attempt upon the honorable Houſe of Commons, we are now come to offer our ſer<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice to that end, as reſolved in their iuſt defence to live and dye.</p>
+            <p>And doe therefore humbly pray, that this moſt honourable Houſe will co-operate with the Houſe of Commons, in moſt ſpeedy perfecting the moſt neceſ<g ref="char:EOLhyphen"/>ſary worke of Reformatlon: Bringing to condigne
+<pb facs="tcp:93739:4"/>
+               <!-- PDF PAGE 88 -->and examplary puniſhment, both wicked counſellers and other plotters and delinquents, that Ireland may be ſpeedily relieved, the Priviledges of Parliament fortified againſt all future attempts, and the whole Kingdome put into ſuch a preſent poſture of defence, that we may be ſafe both from all practizes of the malignant party at home, and the endeavours of any ill-affected States abroad.</p>
+            <closer>And they ſhall pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <head>TO THE HONOVRABLE THE Knights, Citizens and Burgeſſes of the Houſe of Commons now aſſembled in <hi>Parliament.</hi>
+            </head>
+            <p>THat whereas for many yeares paſt, wee have laine vnder many great preſſures, which are clearly ſet forth in the late Remonſtrance of the houſe of Com<g ref="char:EOLhyphen"/>mons, the redreſſe thereof, which hath for a long time beene by you endeavoured, with unwearied paines, though not with anſwerable ſucceſſe, having ſtill Your endeavours fruſtrated, or retarded, and we depri<g ref="char:EOLhyphen"/>ved of the fruit thereof, by a malignant faction of Popiſh Lords and Biſhops, and others; and now of late to take from us all that little hope was left of a future reformation, the very being of the Parliament ſhaken, and by the miſchievous practizes of moſt wic<g ref="char:EOLhyphen"/>ked counſellours, the Priviledges thereof broken in a deſperate and unexpected manner, and the Mem<g ref="char:EOLhyphen"/>bers thereof unaſſured of their lives; in whoſe ſafety
+<pb facs="tcp:93739:4"/>
+               <!-- PDF PAGE 87 -->the ſafety of us and our poſterity is involved, we hold it our duty, acccording to our late Proteſtation, to defend and maintaine the ſame perſons and privi<g ref="char:EOLhyphen"/>ledges to the utmoſt power of our lives and eſtate. To which purpoſe wee are now come, to make the humble tender nf our ſervice, and remaine in expecta<g ref="char:EOLhyphen"/>tion of your command and Order, to the execution whereof we ſhall with all alacrity addreſſe our ſelves to live by you, or to dye at your feet, againſt whom<g ref="char:EOLhyphen"/>ſover ſhall illegally attempt upon you.</p>
+            <p>May it therefore pleaſe this Honorable Aſſembly to aſſiſt the ardent prayers of your Petioners, that Po<g ref="char:EOLhyphen"/>piſh Lords and Biſhops may be forthwith outed the Houſe of Peeres, that all Priviledges of Parliament (Yours and Our poſterities inheritance) may be con<g ref="char:EOLhyphen"/>firmed to you; avd that all evill counſellours, the <hi>A<g ref="char:EOLhyphen"/>chans</hi> of this Common-wealth, may bee given up to the hands of Iuſtice; without all which your Petiti<g ref="char:EOLhyphen"/>oners have not the leaſt hope of Iſraels peace, or to reap thoſe glorious advantages which the fourteen moneths ſeed-time of your unparalled ende have given to their unſatisfied expectations. avours</p>
+            <closer>Add they ſhall daily pray, &amp;c.</closer>
+         </div>
+         <div type="reply_to_petition">
+            <pb facs="tcp:93739:5"/>
+            <!-- PDF PAGE 89 -->
+            <head>THE PARLIAENTS ANSWER to the Petition of <hi>Buckinhingham-ſhire.</hi>
+            </head>
+            <p>AFter this fore-mentioned Petition was delivered up to the Houſe of Commons, they ioyfully re<g ref="char:EOLhyphen"/>ceived it, and with great affection to the ſame. Buck<g ref="char:EOLhyphen"/>ingham ſhire men ſtanding and preſſing towards the doore, did all wait in expectation of an anſwer, two or three houres at the leaſt: when at length they were called, but had no plenarie anſwer then, in regard that they had no concurrent conference with the Houſe of Peeres. But report being made to the upper Houſe of the ſaid Petition, they gave their oſſent thereunto, ſo that it was reſpectively voted in both Houſes, that the ſaid Mr. <hi>Iohn Hambden,</hi> the Lord <hi>Mandevile,</hi> Mr. <hi>Denzil Hollis,</hi> Sir <hi>Arthur Haſleridge,</hi> Mr. <hi>Pym,</hi> and Mr. <hi>Stroud,</hi> ſhould not be committed to the Tower, or any other place of cuſtody whatſoever, untill the Parliamentall Proceſſe of Law had paſſed upon them: and withal the Houſe of Commons themſelves affirmed, that they were partly confident, that they were all innocent of the Articles of High Treaſon. Whereat the Buckingham-ſhire men were ready to ſhout in acclamations, they were filled with great ioy: and moſt dutifully gave the Parliament all poſ<g ref="char:EOLhyphen"/>ſible thanks, that may be conceived: promiſing to de<g ref="char:EOLhyphen"/>fend and aſſiſt their Honours to the uttermoſt of their lives, and fortunes. Then the Parliament graciouſly accepted their Petition, and gave them thanks for their ſo free a Demonſtration of their dutie towards them. Thus all Buckinghamſhire men being fully ſatisfied in their deſires, departed with all allacrity to their lodging<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in London.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:93739:5"/>
+            <!-- PDF PAGE 89 -->
+            <head>THE MANNER OF THEIR COM<g ref="char:EOLunhyphen"/>MING IN TO THE CITIE OF London <hi>with papers in their hands to the Parliament Houſe.</hi>
+            </head>
+            <p>AFter intelligence was given to Buckingham-ſhire, that Mr. <hi>Hambden</hi> being Knight of that Shire, the Lord <hi>Mandevile,</hi> Mr. <hi>Pym,</hi> Sr. <hi>Ar<g ref="char:EOLhyphen"/>thur Haſilrige,</hi> Sr. <hi>Denſil Hollis,</hi> and Mr. <hi>Stroud,</hi> were impeached of High Treaſon by His Maieſty<g ref="char:punc">▪</g> Moreover that His Maieſtie was intended to have them committed to the Tower thereof: They were all unanimouſly reſolved to Petition both to the King and Parliament, on behalfe of them all. The Newes was tranſported into the Shire: but laſt Fri<g ref="char:EOLunhyphen"/>day, late at night, and warants being given out to cer<g ref="char:EOLhyphen"/>tifie the Countrey of the ſame: five thouſand, or ve<g ref="char:EOLhyphen"/>rie nigh that number, were preſently aſſembled, and preſented them ſubmiſsively ro goe with the Petiti<g ref="char:EOLhyphen"/>on to London: and if they had had longer time, there would have beene three times more. But the Petiti<g ref="char:EOLhyphen"/>on being made, and theſe men ready attending the fame, approached neare the aſpect of the Citie of London, where they came through <hi>Leonard Shore<g ref="char:EOLhyphen"/>ditch,</hi> through Biſhops-gate, and ſo through Cheap<g ref="char:EOLhyphen"/>ſide, onward to Weſtminſter: where there was above three thouſand on Horſe-back, every man with a Pa<g ref="char:EOLhyphen"/>per in his hand, intimating that they had a
+<pb facs="tcp:93739:6"/>
+               <!-- PDF PAGE 90 -->Petition to preſent to the Honourable Court, and the other were on foot: but they reached in all from the Exchange to Newgate, three and foure in a rank. Comming to Weſtminſter, they acquainted the Houſe of their Petition, and humbly preſented it un<g ref="char:EOLhyphen"/>to them, where they had afterward at the conference of both Houſes, a correſpondent anſwer given them reſpectively, as is aforementioned.</p>
+            <trailer>FINIS.</trailer>
+            <trailer type="illustration">
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </trailer>
+            <pb facs="tcp:93739:6"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
